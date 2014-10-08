@@ -6,4 +6,7 @@ $(document).ready(function() {
     // Problem 2
     isTrafficJam(30, false);
 
+    // Problem 3
+    fareForRide(6, 8, false);
+
 });

@@ -17,10 +17,9 @@
  1 2 Peche! 4 Ipo kaate! Peche! 7 8
  ...and so on
 
- */
+*/
 
 
-// helper function for output
 function changeElementText(element, answer) {
     $(element).text(answer);
 }
